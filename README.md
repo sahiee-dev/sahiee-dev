@@ -26,5 +26,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sahiee-dev&icon=2&color=8)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=sahiee-dev&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
