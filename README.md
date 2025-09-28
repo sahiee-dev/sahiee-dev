@@ -1,5 +1,11 @@
 # 💫 About Me:
-🫡 Myself Sahir i’m a student studying in svu<br>🔭 I’m currently working on a project called GIGgle<br>👯 I’m looking to collaborate on Giggle<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently doing computer science engineering<br>⚡ I would love to learn more
+🫡 Myself Sahir, a Computer Science student passionate about AI, ML, and full-stack development  
+🔭 I’m currently working on multiple projects in web and AI domains  
+👯 I’m looking to collaborate on research and development projects  
+🤝 I’m looking for help with challenging and impactful projects  
+🌱 I’m currently exploring emerging technologies and frameworks  
+📄 I’ve published research papers in AI and software engineering  
+⚡ I would love to learn more and build practical solutions bridging AI and web
 
 
 ## 🌐 Socials:
