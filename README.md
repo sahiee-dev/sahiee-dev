@@ -12,7 +12,7 @@ Published IEEE conference papers on AI systems, blockchain architectures, and so
 
 ### Open Source
 
-Contributor to production repositories such as [tldraw](https://github.com/tldraw/tldraw), focusing on UX, precision, and interaction bugs that affect end users.
+Contributor to production repositories. focusing on UX, precision, and interaction bugs that affect end users.
 
 ### Engineering
 
