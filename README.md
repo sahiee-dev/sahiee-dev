@@ -2,7 +2,7 @@
 
 **AI/ML Researcher · Open-Source Contributor · Engineer**
 
-AI/ML researcher focused on large-context and multilingual LLM systems. IEEE-published. Active open-source contributor. Building production-grade systems where engineering depth actually matters — pursuing CS undergrad on the side.
+AI/ML researcher focused on large-context and multilingual LLM systems. IEEE-published. Active open-source contributor. Building production-grade systems where engineering depth actually matters pursuing CS undergrad on the side.
 
 ---
 
