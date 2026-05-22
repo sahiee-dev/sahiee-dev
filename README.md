@@ -1,4 +1,4 @@
-# Sahir
+# Sahir | <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="naveen219" /> </p>
 
 **AI/ML Researcher · Open-Source Contributor · Engineer**
 
