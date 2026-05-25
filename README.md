@@ -47,4 +47,4 @@ Open to research collaborations and impactful open-source work. If you're buildi
 ![](https://github-readme-stats.vercel.app/api?username=Sahiee-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahiee-dev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahiee-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![]  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="naveen219" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahiee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="naveen219" /> </p>
