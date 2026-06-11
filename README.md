@@ -29,6 +29,8 @@ Building open security primitives for AI agent accountability. Core work: tamper
 ---
 
 Open to research collaborations in multi-agent systems and AI security. If you're working where correctness and depth matter, let's talk.
+
+---
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahiee-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-ahamed-sahir)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/X9uYh7jd)
