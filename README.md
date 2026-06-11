@@ -26,7 +26,6 @@ Building open security primitives for AI agent accountability. Core work: tamper
 - AI agent behavior analysis and tool-use auditing  
 - Production open-source contribution
 
----
 
 Open to research collaborations in multi-agent systems and AI security. If you're working where correctness and depth matter, let's talk.
 
